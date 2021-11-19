@@ -2,3 +2,34 @@
 body{
     background-color: darkcyan;
 }
+.logo{
+
+    border: 10px double darkslategrey;
+    border-radius: 90%;
+
+}
+.guns{
+
+    width: 60%;
+    border: 15px solid black;
+    background-color: mediumaquamarine;
+    color: darkcyan;
+    font-family: "cursive";
+
+}
+.coral{
+
+    font-family:cursive;
+    color: coral;
+
+}
+.best{
+
+    width: 60%;
+    border: 15px solid black;
+    background-color: mediumaquamarine;
+    color: darkcyan;
+    font-family: "cursive";
+
+}
+
